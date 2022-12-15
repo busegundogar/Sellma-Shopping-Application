@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "479832005337",
+    "project_id": "cs310-sellwe-firebase",
+    "storage_bucket": "cs310-sellwe-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479832005337:android:e788b56e2d0a1561b97cc8",
+        "android_client_info": {
+          "package_name": "com.example.selma_sign_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479832005337-ovljo7bugieevfln9i7nv047mtgk56ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.selma_sign_up",
+            "certificate_hash": "32e7581b7d6e4e58e84ef6da95c6122242aaa8d8"
+          }
+        },
+        {
+          "client_id": "479832005337-fookj6v6nnt7lk9e135mnpkv62mtsqeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYgt24r-FpeMfV0v9K9D2rw5y4plGtbLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479832005337-fookj6v6nnt7lk9e135mnpkv62mtsqeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

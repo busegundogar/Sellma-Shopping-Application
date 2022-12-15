@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SellWe</string>
+    <string name="facebook_app_id">921853775358687</string>
+    <string name="fb_login_protocol_scheme">fb921853775358687</string>
+    <string name="facebook_client_token">1275501cec91d20a45ea17e97aa66311</string>
+</resources>
